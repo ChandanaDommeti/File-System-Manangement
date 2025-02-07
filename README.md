@@ -56,7 +56,7 @@ File added to Desktop.
 ### Renaming a File
 ```
 Enter the current file name: myfile.txt
-Enter the new file name: newfile.txt
+Enter the new file name: newfile1.txt
 File renamed successfully.
 ```
 
